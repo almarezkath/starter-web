@@ -1,0 +1,6 @@
+Go from zero to hero with Git source control step-by-step with easy to understand examples. Become the next Git expert!
+
+This course is designed to be a comprehensive approach to Git, which means no prior knowledge or experience is required but students will emerge at the end with a very solid understanding and hands-on experience with Git and related source control concepts.
+
+
+With nearly 20 years of programming and software development experience, I started out teaching myself programming while in High School. I put myself through college working for a local Internet Service Provider as a programmer. Before finishing college, I developed and sold an award winning website to a Dot-Com start-up. After college, I have worked at several companies ranging from start-ups to large enterprises focusing on Java and client-side technologies (HTML/CSS/JavaScript). Throughout my career, I have opportunity to learn many software development best practices and exposure to several version control systems. 
